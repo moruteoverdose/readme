@@ -1,2 +1,1 @@
-# testthingy
-tests
+yum
